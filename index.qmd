@@ -1,0 +1,56 @@
+---
+title: "Japão 2027"
+subtitle: "Informações úteis para a viagem"
+author: "G Bandeira"
+lang: pt
+date: last-modified
+date-format: "DD/MM/YYYY"
+format:
+  html:
+      link-external-newwindow: true
+toc: true
+#toc-depth: 2
+number-sections: true
+theme: default
+respect-user-color-scheme: true
+echo: false
+message: false
+warning: false
+fig-align: center
+---
+
+![](images/image1.jpg)
+
+# Recapitulando e definindo as bases
+
+**O quê?** Viagem ao Japão
+
+**Quando?** Final de 2027
+
+**Como?** Como cada um de vocês quiser e decidir
+
+A ideia, vale sempre reforçar, é que a viagem **não será uma excursão**, então tá tudo bem se alguém quiser ir antes ou depois, ficar mais ou ficar menos, conhecer montanhas com neve ou preferir ir tirar foto com a Minnie na Disney.
+
+Pensem que vocês terão um facilitador antes e durante a viagem, auxiliando na organização e na realização do objetivo, além de dar algum suporte que possa ser útil lá no Japão. Mas não precisa estar todo mundo junto o tempo todo. Aliás, acho que seria legal estar junto em algum momento, não precisa nem ser a maior parte da viagem de ninguém. Conversem entre vocês porque também tá tudo bem se alguém quiser grudar no amiguinho (desde que com consentimento, por favor), o importante é a gente diminuir o risco de emputecimentos, brigas, tretas, porradarias, mau-humor e cansaços desnecessários.
+
+Como isso será possível? *Simples*, meus caros pimpolhinhos das gírias, eu vou estar atento às movimentações de todos e a partir disso vejo quando precisarei embarcar. Minha ideia é chegar primeiro e sair depois, mas não vou atrasar meu planejamento e digo logo que vou comprar as passagens com um ano de antecedência. Sim, 12 meses, 365 dias.
+
+Pra isso mas também pra todo o resto deixo uma dica de amigo: **se informem e se programem desde já** (isso pra não falar da grana, né, cujo melhor cenário era poupar desde ontem – mas ainda dá tempo, não se esqueçam que dá pra simular os gastos na [planilha](https://bit.ly/estima-jp27)). Dependendo de como forem viabilizar o rolê de vocês pode ser interessante já começar os arranjos, reservas (e gastos, humpf) com essa antecedência de um aninho. Não quer dizer que precisa estar tudo pronto, claro, mas não deixem pra depois esse basicão.
+
+Nos próximos meses atualizarei constantemente este site com dois tipos de informações: **destinos** que podem interessar, que é pra ajudar vocês a terem uma noção do que há além de Tokyo e Kyoto, e a logística e a burocracia que estarão envolvidas – hospedagem, transporte, grana, internet, comida, japonês...
+
+Perguntem, compartilhem (dúvidas e pensamentos, esse site **não**!), não hesitem nem sintam vergonha de se manifestar. Afinal agora _somos mais que amigos, somos **tripmates**_! E corrijam o que estiver errado, por favor.
+
+Já vou deixar a seguir uma fonte maravilhosa de informação, que ainda usarei bastante e que vale a pena fuçar inteira. Não é a única, não é nem a melhor dependendo do propósito, mas ajuda sobremaneira.
+
+## Links úteis
+
+[Japan Guide - Find Your Destination](https://www.japan-guide.com/e/e623a.html)
+
+[Japan Guide - Explore Your Interests](https://www.japan-guide.com/e/e623.html)
+
+[Japan Guide - Learn](https://www.japan-guide.com/planning/learn.html)
+
+[Japan Guide - Plan a trip - Before you go](https://www.japan-guide.com/planning/before_you_go.html)
+
+[Japan Guide - Shinkansen (trem-bala)](https://www.japan-guide.com/e/e2018.html)
