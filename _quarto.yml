@@ -3,12 +3,8 @@ project:
   output-dir: docs
 
 website:
-  title: "27"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  title: "Japão 2027"
+  navbar: false
 
 format:
   html:
