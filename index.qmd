@@ -8,6 +8,7 @@ date-format: "DD/MM/YYYY"
 format:
   html:
       link-external-newwindow: true
+      df-print: kable
 toc: true
 #toc-depth: 2
 number-sections: true
@@ -16,10 +17,12 @@ respect-user-color-scheme: true
 echo: false
 message: false
 warning: false
-fig-align: center
 ---
 
-![](images/image1.jpg)
+<br>
+
+![](images/image1.jpg){fig-align='center'}
+
 
 # Recapitulando e definindo as bases
 
@@ -54,3 +57,159 @@ Já vou deixar a seguir uma fonte maravilhosa de informação, que ainda usarei 
 [Japan Guide - Plan a trip - Before you go](https://www.japan-guide.com/planning/before_you_go.html)
 
 [Japan Guide - Shinkansen (trem-bala)](https://www.japan-guide.com/e/e2018.html)
+
+<br><br>
+
+![](images/image2.jpg){fig-align='center'}
+
+
+# O que resolver ainda no Brasil
+
+## Visto
+
+Hoje [o Japão não exige visto para brasileiros](https://www.curitiba.br.emb-japan.go.jp/itpr_pt/isencao-visto.html), mas o atual acordo finda antes de nossa viagem, já no final de setembro de 2026. As perspectivas para renovação parecem boas mas, como nos ensinou Celso Roth, *cautela é fundamental*. Tratemos, pois, como vinha sendo antes o processo do visto.
+
+Até setembro de 2023 era tudo chato mas rápido e fácil (tem como!?): você programava a viagem inteira primeiro e depois ia até o consulado (tem em Curitiba, tem em São Paulo) munido de [documentação](https://www.curitiba.br.emb-japan.go.jp/curta.html) que incluía os comprovantes de passagens e de hospedagens, além daqueles relacionados ao custeio da viagem (o que às vezes significava compartilhar extrato bancário ou declaração de imposto de renda...), pagava a taxa (R$ 104 para única entrada ou R$ 206 para múltiplas entradas) e depois de um ou dois dias voltava pra pegar o passaporte já com o visto.
+
+~~Mamão com açúcar~~ [Anmitsu](https://hoshinoresorts.com/guide/wp-content/uploads/2022/02/tkmm1-1.jpg), né? Mas a comprovação financeira às vezes era pedra no sapato.
+
+Caso alguém aí tenha outro passaporte, dá pra checar [aqui](https://www.mofa.go.jp/j_info/visit/visa/short/novisa.html) se também tem isenção de visto.
+
+::: {.callout-note}
+Tecnicamente, a isenção é válida para viagens de até 90 dias a turismo e para quem tiver passaporte eletrônico (com chip). Acho que a chance disso englobar todos nós é imensa mas veja aí se teu passaporte não é mimeografado ou sei lá.
+:::
+
+
+## Seguro (ou assistência) de viagem
+
+Contratem. Simples assim. Torço pra que nem dor de cabeça ninguém tenha, mas o sistema de saúde japonês não será fácil de acionar nem barato caso seja necessário. As farmácias comuns, aliás, têm uma gama mais limitada de medicamentos (suficiente pro dia-a-dia, sem neura!) e o resto é só com receita, muitas vezes nas farmácias das clínicas e hospitais.
+
+Já usei **Assist Card** (no Japão, inclusive) e tenho usado **Allianz Travel** (o [link deles com o Melhores Destinos](https://www.allianztravel.com.br/melhores-destinos) chega a ter 70% de desconto algumas vezes por ano), acho que são bem dignos. Usei uma vez o **Vital Card** e foi uma decepção.
+
+Cotando aqui na louca algumas opções agora, só pra ilustrar de quanto estamos falando:
+
+- 15 dias a partir de R$ 295
+- 20 dias a partir de R$ 393
+- tem ainda o anual (para viagens de até 30 dias), que tá com as vendas temporariamente suspensas no momento
+
+
+## Viajando com medicamentos
+
+
+Tem remédio comum aqui que é proibido lá. Pseudoefedrina, por exemplo, que é normal junto de anti-histamínicos, não pode (você conseguiria fabricar metanfetamina a partir dela, pois veja só). Vale a pena checar até no caso da farmacinha de viagem, mas obviamente o que também tem venda controlada aqui merece mais atenção. Não se esqueçam de checar tudo com antecedência porque pode ser necessária autorização prévia, os links a seguir ajudam:
+
+[Guide to Bringing Medicines Into Japan](https://en.japantravel.com/guide/bringing-medicines-into-japan/58063)
+
+[Information for those who are bringing medicines for personal use into Japan](https://www.mhlw.go.jp/english/policy/health-medical/pharmaceuticals/01.html)
+
+[Bringing Medication into Japan](https://www.japan.travel/en/ca/bringing-medication-into-japan/)
+
+Apesar da barreira da língua, você vai encontrar facilmente medicamentos para as demandas mais simples (dor de cabeça, azia, dor muscular, por exemplo). O que pode acontecer é não achar a classe ou o princípio ativo com que está acostumado (dor de cabeça lá é caso pra ibuprofeno).
+
+
+## Clima
+
+
+Estará frio. Ou não. Depende de onde você vai. Mas provavelmente estará frio. Médias em celsius:
+
+```{r}
+#| label: tab-temp
+#| echo: false
+
+dplyr::tibble('cidade' = c('Tokyo', 'Kyoto/Osaka', 'Fukuoka', 'Sapporo', 'Naha (Okinawa)'),
+              'mín dez' = c(5,5,5,-4,16),
+              'máx dez' = c(12,12,13,2,21),
+              'mín jan' = c(2,3,3,-8,14),
+              'máx jan' = c(10,9,10,-1,19))
+```
+
+<br>
+De qualquer forma, é um frio ok porque você só vai sentir nos ambientes externos mesmo. Até em trams eles usam climatização.
+
+
+## Moeda (e IC cards)
+
+
+**Não compre ienes no Brasil**! Vai tomar prejuízo à toa. **Dólar** é uma boa opção, a conversão lá é decente mesmo no aeroporto.
+
+Se possível cheque contas como as da **Nomad** e da **Wise**, os cartões podem ser usados diretamente nos estabelecimentos ou para **sacar ienes** lá, também sem taxas abusivas (muito pelo contrário).
+
+Aliás vai ser importante sempre estar com algum **dinheiro de papel** (ou de metal, já que há moedas de até 500 ienes – quase R$ 17 na cotação de hoje) porque há muitos lugares que só recebem em espécie.
+
+Por outro lado, o uso dos **cartões de transporte** ([IC cards](https://www.japan-guide.com/e/e2359_003.html) como Suica e Pasmo) é cada vez mais comum e eles já se tornaram uma forma de pagamento cotidiana nas grandes cidades. Kombinis (as onipresentes lojas de conveniência), lojas de roupa, restaurantes, máquinas de bebidas e até hotéis os aceitam. Suica, Pasmo e Icoca já estão integrados com o Apple Pay e podem ser gerados diretamente na Apple Wallet (o uso em dispositivos Android é mais complicado mas ainda assim possível). Também é possível comprar um cartão físico lá na chegada caso queiram ou precisem.
+
+Ainda, há diferentes IC cards porque cada cidade usava seu cartão mas hoje eles estão quase que totalmente integrados e, salvo exceções, será possível usar um cartão (originalmente) de Tokyo em Osaka e Fukuoka e Sapporo sem o menor problema.
+
+**O que eu faria:** sacaria ienes lá e usaria muito os IC cards. Ou *ai-shi kaa-do*, como diriam eles.
+
+
+## Takuhaibin (serviços de bagagem)
+
+
+A coisa mais normal do mundo para um japonês é viajar só com uma coisinha ou outra consigo e mandar tudo o que for mais pesado, volumoso ou chato de carregar por meio dos serviços de entrega. As empresas que os ofertam têm lojas (e caminhões) por todos os lados e usam ainda aeroportos, kombinis e hotéis como pontos de retirada ou de entrega. É prático, acessível, eficiente e pontual.
+
+Em grande parte das situações a bagagem (ou encomenda) é entregue em um ou dois dias, em casos excepcionais (e com um preço mais salgado) é possível encontrar até entrega no mesmo dia. A opção mais conhecida é a do simpático [kuroneko](https://www.japaoemfoco.com/wp-content/uploads/2018/11/Takkyubin-Yamato-Kuroneko-1.jpg) (gato preto) da [Yamato](https://www.global-yamato.com/en/hands-free-travel/) (ou takkyubin ou TA-Q-BIN), mas não é a única.
+
+Recomendo que, a depender do trajeto, do meio de transporte e da bagagem, se programem para utilizar o serviço. Ainda vamos falar da etiqueta japonesa mas já registro que pode ser até mesmo constrangedor ser o único ~~idiota~~ a atrapalhar os outros em estações e trens com muita bagagem, fora que às vezes [bagagens grandes podem exigir reserva prévia ou mesmo ser proibidas](https://global.jr-central.co.jp/en/info/oversized-baggage/#section01). Para eventuais deslocamentos de avião vai sair bem mais em conta que uma bagagem paga à parte.
+
+Caso vocês sejam do tipo que vai só com uma mochila e volta com aproximadamente 5 toneladas de *comprinhas* desencanem, ajeitem tudo uns dias antes e mandem do hotel pro aeroporto. Sério, vale demais a paz de espírito (mas eu vou apelidar de [*Belle Silva*](https://extra.globo.com/famosos/retratos-da-bola/mulher-de-thiago-silva-filma-volta-para-paris-leva-16-malas-festeja-jatinho-22865497.html) sem dó).
+
+Alguns exemplos de [preços e prazos](https://www.kuronekoyamato.co.jp/ytc/en/search/payment/):
+
+```{r}
+#| label: tab-kuroneko
+#| echo: false
+
+dplyr::tibble('de' = c('Tokyo (aeroporto)', 'Kyoto/Osaka (aeroporto)', 'Tokyo', 'Tokyo', 'Tokyo', 'Tokyo'),
+              'para' = c('Tokyo (hotel)', 'Kyoto/Osaka (hotel)', 'Kyoto/Osaka', 'Fukuoka', 'Sapporo', 'Naha (Okinawa)'),
+              'prazo (dias)' = c(2,2,2,3,3,3),
+              'custo (¥)' = c(1680,1680,1920,2120,2720,2720),
+              'custo (R$)' = c(57,57,65,72,92,92))
+```
+
+
+## Deslocamento interno
+
+
+Viajar dentro do Japão é muito fácil, ainda que não muito barato – e mesmo o transporte dentro das cidades onera um pouco a viagem. Você pode pesquisar deslocamentos com precisão no excelente [Navitime](https://japantravel.navitime.com/en/area/jp/route/), cujo app pra [iPhone](https://apps.apple.com/br/app/japan-travel-visit-planner/id686373726?l=en-GB) ou [Android](https://play.google.com/store/apps/details?id=com.navitime.inbound.walk) se chama Japan Travel, mas é bastante provável que usemos trens, trens e mais trens.
+
+Há variados tipos deles mas o **shinkansen** (trem-bala), de *shin* = "nova" e *kansen* = "linha principal" é, bem, a principal opção onde estiver disponível:
+<br><br>
+
+![Linhas de shinkansen](https://www.japan-guide.com/g24/2018_04_2403.gif){fig-align="center"}
+
+<br>
+Eu não usei trens rápidos em outros lugares mas acho que ao menos pra quem nunca usou um vale a pena incluir na viagem até pela experiência. E se viajar entre Tokyo e Nagoya (ou qualquer outra cidade mais a oeste) você ainda pode se deparar com essa cena linda de meu deus:
+<br><br>
+
+![Foto tirada pela Alana de dentro de um shinkansen](/images/image3.jpg){fig-align="center"}
+
+<br>
+Este artigo [aqui](https://www.japan-guide.com/e/e2018.html) é um guia excelente e completíssimo sobre o shinkansen, não deixem de dar uma olhada.
+
+Mas sem desmerecer os **trens** comuns também, que dificilmente deixarão de ser usados, seja em deslocamentos mais curtos, seja onde não há shinkansen, seja por terem rotas mais turísticas.
+
+**Ônibus** são uma opção menos confortável, eu diria até que potencialmente problemática para pessoas um pouco maiores (seja para cima, seja para os lados), e isso mesmo em deslocamentos curtos. Os próprios veículos muitas vezes são menores que os que rodam por aqui e, de todo modo, o interior chega a ser meio ~~deprimente~~ compacto demais às vezes. De todo modo, há ônibus noturnos pra quem estiver muito muquirana querendo evitar diária de hotel, enquanto trens noturnos praticamente não existem no Japão mais.
+
+Talvez não pareça mas ainda assim o **avião** é bastante utilizado por lá. A demanda é tão grande que chegam a usar aviões grandes, de dois corredores, em trajetos curtos como o entre Tokyo e Osaka, de menos de 1h – a viagem de shinkansen leva 2h30'. Eu não acho que valha a pena nestas situações, mas para ir a Kyushu (a ilha mais a oeste no mapa, onde ficam Fukuoka, Nagasaki e Kagoshima) e Hokkaido (a ilha mais ao norte, alcançada pelo shinkansen apenas até a bem charmosinha Hakodate mas cuja capital é Sapporo) direto pode ser bem melhor (não é possível ir de Tokyo a Sapporo de trem em muito menos que 8h e a viagem da capital a Kagoshima leva quase 7h). Okinawa, o arquipélago que nem aparece no mapa acima e que tem [essa cara meio de Caribe japonês](https://www.grandmercure.com/wp-content/uploads/2024/08/Okinawa-2200x1200.jpg) (!?) não é acessível senão por avião (ou lentos navios que partirão de perto de Kagoshima).
+
+Passes de trem podem ser uma opção econômica, mas foi-se o tempo em que representavam uma economia sensível. Voltaremos a falar deles depois!
+
+
+<br><br>
+
+::: {.callout-tip}
+Série [Kantaro: The Sweet Tooth Salaryman](https://www.netflix.com/br/title/80175348)
+
+(E o episódio 1 já é sobre anmitsu!)
+:::
+
+<!--
+<br><br>
+
+![](imageN.jpg){fig-align='center'}
+
+
+# Título
+-->
+
