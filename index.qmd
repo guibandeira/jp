@@ -21,7 +21,7 @@ warning: false
 
 <br>
 
-![](images/image1.jpg){fig-align='center'}
+![Minato-ku, distrito de Tokyo-to, com destaque para a Tokyo Tower](images/image1.jpg){fig-align='center'}
 
 
 # Recapitulando e definindo as bases
@@ -60,10 +60,10 @@ Já vou deixar a seguir uma fonte maravilhosa de informação, que ainda usarei 
 
 <br><br>
 
-![](images/image2.jpg){fig-align='center'}
+![Chureito Pagoda, próximo a Kawaguchiko, com o Fuji ao fundo](images/image2.jpg){fig-align='center'}
 
 
-# O que resolver ainda no Brasil
+# O que resolver ainda no Brasil {#sec-cap2}
 
 ## Visto
 
@@ -195,13 +195,69 @@ Talvez não pareça mas ainda assim o **avião** é bastante utilizado por lá. 
 
 Passes de trem podem ser uma opção econômica, mas foi-se o tempo em que representavam uma economia sensível. Voltaremos a falar deles depois!
 
+<br><br>
+
+![Rainbow Bridge vista a partir de Odaiba](images/image4.jpg){fig-align='center'}
+
+
+# Tokyo, o destino óbvio
+
+Ir para o Japão sem passar por Tokyo beira o impossível, então era inevitável falar da capital como o primeiro possível destino de viagem. Por outro lado, já tem tanta informação sobre ela por aí que nem faz sentido eu querer explicar muita coisa.
+
+Ótima oportunidade pra lembrar que não existe *ter-que*. Não caiam no conto do *lugar que você **tem que** conhecer*, da *coisa que você **tem que** fazer* ou então da variação de que *você **não pode** voltar sem ter feito/visto/experimentado X*. Primeiro que viagem boa é a que a gente faz com o que nos dá na telha, de acordo com nossos gostos e interesses. Depois que Tokyo é tão grande e tem tanta coisa diferente que você pode passar 30 dias lá e ainda assim vai faltar tempo pra alguma coisa.
+
+Comecemos então pelo básico.
+
+
+## Chegando lá
+
+
+É mais provável que você viaje "diretamente" a Tokyo (aspas por conta da impossibilidade de fazer um voo de 24h do Brasil pra lá) e que então chegue ou pelo aeroporto de **Narita (NRT)** ou pelo aeroporto de **Haneda (HND)**. O primeiro tem mais voos internacionais e geralmente ao menos um pouco mais em conta, o segundo é mais gostosinho (e próximo da cidade). De um jeito ou de outro, o transporte do (e para o) aeroporto é bem simples e eficiente, com estações de trem dentro dos terminais.
+
+
+## Ficando lá
+
+
+Tokyo tem uma linha de trem circular que pode servir de base pra muita coisa, inclusive pra dar uma noção de onde você pode querer ficar: a [Yamanote Line](https://www.japan-guide.com/e/e2370.html). Suas principais estações (pros turistas) são Shinjuku, Shibuya, Tokyo, Akihabara, Ueno e Ikebukuro, mas de maneira geral você não terá nenhuma dificuldade de se deslocar pela cidade caso fique próximo à Yamanote.
+
+Muitas vezes o *turista médio* acaba em **Shinjuku** e o otaku sonha em ir pra **Akihabara**. **Shibuya** é meio Batel (mas a área nobre e de lojas de grife é **Ginza**) e **Asakusa** é um pouquinho mais *alternativa*, acabando por juntar a muvuca turística com uma vida mais de bairro, com muita coisa girando em torno do [Sensoji](https://www.japan.travel/pt/spot/1691/) (*ji* é *templo*).
+
+Ao longo da Yamanote também podem ser boas opções **Ebisu**, **Meguro**, **Gotanda**, **Hamamatsucho** e **Nippori** se você quer sair um pouco do óbvio.
+
+Querendo realmente ter outro tipo de experiência veja **Setagaya** e **Jiyugaoka**, mas é preciso saber que implicarão em deslocamentos menos rápidos e diretos. Já fiquei mais de uma semana num hotel perto do aeroporto de Haneda e não me arrependo, só é inegável que pra todo deslocamento você tem que adicionar uns 15 a 30'. Se você não tiver uma boa razão pra isso (um local ou preço realmente diferenciados, um interesse muito específico, uma curiosidade fenomenal pela vida local) evite regiões mais afastadas, como Ota (a área perto do aeroporto de Haneda), Edogawa e o que mais uma olhada no Google Maps já gritar "Mano, é longe!".
+
+**O que eu faria:** mapearia primeiro meus interesses e então checaria as opções disponíveis de acomodação pensando nos lugares que quero visitar, priorizando as proximidades da Yamanote. Para estadias de mais de uma semana vale a pena considerar ficar em duas regiões distintas, trocando de hospedagem em algum momento. Mas, considerando que é muito provável chegar por Tokyo, peguem levem no planejamento dos dois ou três primeiros dias porque o jet lag pode bater forte.
+
+
+## Passeando, fazendo, vendo e comendo lá
+
+
+Então, bicho, complicado. Siga seu coração. Pesquise pesquise pesquise, ache as coisas que te encantam e bora lá. Pra não deixar ninguém perdido deixo uma fonte por onde começar: [Tokyo no Japan Guide](https://www.japan-guide.com/e/e2164.html).
+
+O que posso fazer aqui é chamar atenção pra algumas coisas (e fora daqui dá pra gente trocar ideia, uai):
+
+- Não faz sentido **pra mim** a ideia de Japão sem **contemplação**. Mesmo na loucura de uma megalópole com ziriguilhões de habitantes dá pra ter momentos de calmaria e sossego, sem pressa. Para um BR, o Japão já é ao natural uma sucessão gigante de estímulos, sobretudo numa primeira viagem. Vá com calma, pegue leve, curta o momento.
+- **Templos** (budistas) e **santuários** (shinto) fazem parte da vida cotidiana e muitas vezes acabam sendo também pontos turísticos, mas não necessariamente precisam ser vistos só como uma das duas coisas. Vá (em vários) mesmo que não façam parte do planejamento da viagem (porque você esbarrará com dezenas deles), só lembre de ter a mesma postura respeitosa que você teria numa igreja.
+- **Parques** são lindos maravilhosos coisinhas de meu deus, se você realmente acha que o curitibano é um ser moldado pelo Parque Barigui pense que japoneses podem ser curitibanos^2^. Pelo menos. Pode ser um [Shinjuku Gyoen](https://www.env.go.jp/garden/shinjukugyoen/english/index.html) gigante no meio da área mais central de Tokyo, pode ser um [Hamarikyu](https://www.tokyo-park.or.jp/park/hama-rikyu/) cheio de [história](https://thegate12.com/article/16), pode ser um *humilde* [Kyu-Shiba-rikyu](https://www.tokyo-park.or.jp/park/kyu-shiba-rikyu/) pra uma pausa silenciosa no rolê. Mas, como templos e santuários, eles estarão por todo canto.
+- Se corre, faça os 5km em volta do [Palácio Imperial](https://en.japantravel.com/tokyo/the-imperial-palace-running-route/45840). E fale comigo porque eu vou junto se puder.
+- Encontre **atrações locais**: vá a um show de um artista local, veja se terá algum evento comunitário (tipo os [matsuri](https://www.japan.travel/pt/guide/get-involved-in-local-festivals/), mesmo os menores, ainda que sejam mais comuns no verão), assista a um evento do esporte de que gosta.
+- Aprenda (ou se deleite) com a **arquitetura** e a **urbanização** japonesas. Não é uma questão de apreço estético, é uma chance de ver (e viver) como isso pode fazer a diferença na vida, no dia-a-dia das pessoas mesmo. Se gosta dessas áreas avalie incluir locais de interesse nos roteiros, mas não é pra carimbar [projetos](https://parametric-architecture.com/6-famous-japanese-architects/?srsltid=AfmBOoqaTVhDKrW5ftQ3zb_18_7toKSJ_OZ2DbXxhFeL7frxm49yXC-y) das [figuras mais proeminentes](https://www.japan-guide.com/e/e2111_architects.html): vai ser inevitável perceber como é feito o amplo uso comunitário dos espaços públicos e privados. Isso tudo não tá só em Tokyo, é que lá tudo se concentra.
+- Coma o que quiser. Claro que a **comida** japonesa é muito boa no Japão (!), mas é que se bobear você encontra lá também a melhor comida francesa, indiana, tailandesa... Só pra culinária britânica que eles não conseguiram dar um jeito, acontece. Sempre lembro que a [melhor pizza da minha vida](https://savoy-azabujyuban.com/en) eu comi em Tokyo. E a [segunda melhor](http://pst-tk2-ad.com/) também!
+- Se der, pegue uma linha de **ônibus** qualquer sem se importar muito com o destino. Viajar no ônibus te dará uma perspectiva diferente das do metrô e do trem, e é possível que você acabe parando num bairro residencial sem tumulto – se não parar você pode pegar um segundo ônibus. Dá pra dar uma zanzada pela área, entrar num restaurante mais caseiro, e pepois você vai se achar fácil com o [https://japantravel.navitime.com/en/area/jp/route/](https://japantravel.navitime.com/en/area/jp/route/) e é bastante provável que esteja próximo de alguma estação de trem para voltar, se preferir.
+
 
 <!--
+texto texto texto (final da seção anterior)
+
 <br><br>
 
 ![](imageN.jpg){fig-align='center'}
 
 
-# Título
+# Título seção
+
+## Título subseção
+
+Texto texto texto
 -->
 
